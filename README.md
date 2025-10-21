@@ -41,3 +41,34 @@ Benefits of Use Case Diagrams:
 >>Facilitate communication among stakeholders and development team.
 # A use case diagram for the booking system, using Draw.io.
 ![Booking Use Case Diagram](alx-booking-uc.png)
+# Acceptance Criteria.
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+Importance of Acceptance Criteria
+Acceptance Criteria define the conditions that must be met for a feature to be accepted by users/stakeholders. They:
+
+Provide clear definition of "done"
+
+Reduce ambiguity in requirements
+
+Guide development and testing
+
+Set stakeholder expectations
+
+Example: Checkout Feature Acceptance Criteria
+Given a user has items in their cart
+When they proceed to checkout
+Then the system should:
+
+Display order summary with total cost
+
+Accept multiple payment methods (card, mobile money)
+
+Generate booking confirmation
+
+Send confirmation email/SMS
+
+Update room availability status
+
+Given invalid payment details
+When user submits payment
+Then system should display clear error message and prevent booking completion
