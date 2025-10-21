@@ -32,5 +32,13 @@ Examples: User authentication, property search, booking system, user registratio
 # Non functional requirements
 This describes how the system shouls perform.
 Examples: Performance, security, scalability, usability, reliability.
-
+# Use Case Diagrams
+This is the visual representation of interactions between users and the system.
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+Benefits of Use Case Diagrams:
+>>Provide a clear visual representation of system functionalities.
+>>Help in identifying and organizing system requirements.
+>>Facilitate communication among stakeholders and development team.
+# A use case diagram for the booking system, using Draw.io.
+https://drive.google.com/file/d/1kLaNdb9-W0kzMLrsJv6YWX9mSZNmLtY4/view?usp=sharing
 
