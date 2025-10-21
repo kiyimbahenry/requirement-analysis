@@ -25,3 +25,12 @@ Create models to visualize and understand the requirements.
 5. Requirement Validation
 Review and validate the requirements with stakeholders.
 Define acceptance criteria and ensure traceability.
+# Types of Requirements.
+# Functional requirements
+This decribes what the system should do
+Examples: User authentication, property search, booking system, user registration.
+# Non functional requirements
+This describes how the system shouls perform.
+Examples: Performance, security, scalability, usability, reliability.
+
+
