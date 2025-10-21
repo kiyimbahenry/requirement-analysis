@@ -40,5 +40,6 @@ Benefits of Use Case Diagrams:
 >>Help in identifying and organizing system requirements.
 >>Facilitate communication among stakeholders and development team.
 # A use case diagram for the booking system, using Draw.io.
-https://drive.google.com/file/d/1kLaNdb9-W0kzMLrsJv6YWX9mSZNmLtY4/view?usp=sharing
+<img width="495" height="592" alt="image" src="https://github.com/user-attachments/assets/0645486e-8712-465d-9778-891ea170c20e" />
+
 
