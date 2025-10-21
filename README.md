@@ -9,3 +9,19 @@ Scope Definition: Clearly defines the scope of the project, which helps in preve
 Basis for Design and Development: Provides a solid foundation for designing and developing the system.
 Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+# Key Activities in Requirement Analysis
+1. Requirement Gathering
+Engage with stakeholders to collect initial requirements.
+Use various techniques like interviews, surveys, and workshops.
+2. Requirement Elicitation
+Refine and elaborate on the gathered requirements.
+Use techniques like brainstorming, focus groups, and prototyping.
+3. Requirement Documentation
+Document the requirements in a detailed and structured format.
+Use requirement specification documents, user stories, and use cases.
+4. Requirement Analysis and Modeling
+Analyze and prioritize the requirements.
+Create models to visualize and understand the requirements.
+5. Requirement Validation
+Review and validate the requirements with stakeholders.
+Define acceptance criteria and ensure traceability.
